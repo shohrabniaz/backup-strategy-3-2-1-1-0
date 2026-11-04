@@ -1,10 +1,17 @@
 {
-  "seq": 30,
   "title": "Implementing and validating the 3-2-1-1-0 Backup Strategy for an SME",
-  "slug": "implementing-and-validating-the-3-2-1-1-0-backup-strate",
+  "old_slug": "implementing-and-validating-the-3-2-1-1-0-backup-strate",
+  "slug": "backup-strategy-3-2-1-1-0",
   "folder": "Implementing_And_Validating_The_3_2_1",
   "kind": "resilience",
-  "body_words": 241,
+  "body_words": 314,
+  "source": "SCI700",
   "project_id": "Project 26",
-  "source": "SCI700"
+  "public": {
+    "public_ok": true,
+    "tier": "public-ok",
+    "reasons": [
+      "Strong portfolio narrative; synthetic baseline is fine for public"
+    ]
+  }
 }
